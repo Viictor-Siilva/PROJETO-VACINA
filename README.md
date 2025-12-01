@@ -1,0 +1,1 @@
+Para executar: backend de CD npm install copiar .env.example -> .env e ajustar criar banco: mysql -u root -p < db_schema.sql (opcional) seed: mysql -u root -p < seed.sql npm iniciar Abra http://localhost:3000
